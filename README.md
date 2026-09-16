@@ -122,7 +122,6 @@ Actualmente curso el **Bootcamp Full Stack Junior Java de Generation Colombia** 
 
 </div>
 
-> Generado mediante la GitHub Action `platane/snk` — actívala en la pestaña **Actions** de este repositorio para que funcione.
 
 <br>
 
